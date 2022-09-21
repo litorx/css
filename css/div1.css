@@ -1,0 +1,43 @@
+html{
+    background-color: aliceblue;
+}
+body{
+    margin: 0 auto;
+}
+.principal{
+    width: 2000px;
+    margin: 0 auto;
+background-color: rgb(0, 0, 0);
+padding: 10px;
+
+
+}
+.principal:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.janela{
+    float: left;
+    width: 350px;
+    background: #fc3;
+    padding: 5px;
+    margin-right: 5px;
+
+}
+.janela2{
+    float: right;
+    width: 350px;
+    background: #fc3;
+    padding: 5px;
+    margin-right: 5px;
+
+}
+.janela3{
+    float: left;
+    width: 350px;
+    background: #fc3;
+    padding: 5px;
+    margin-right: 5px;
+
+}

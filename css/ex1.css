@@ -1,0 +1,22 @@
+p{
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 1px #666;
+    font-size:large;
+
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+    text-shadow: 1px 1px 1px #666;
+    font-size:xx-large;
+    
+}
+body {
+    background-image:url(https://i.pinimg.com/736x/99/21/99/99219963280c9ebab9c0415de0d924b0.jpg);
+}
+
+span{
+color: blueviolet;
+background-color: black;   
+}

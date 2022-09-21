@@ -1,0 +1,18 @@
+#janela{
+    position: absolute;
+    top:50px; left:50px;
+    width:200px;
+    height:200px;
+    
+    background:radial-gradient(yellow,red,blue);
+    
+}
+body{
+    background:radial-gradient(yellow,red,blue);
+}
+main{
+    width: 600px;
+    height: 600px;
+    background:radial-gradient(red,white, black);
+}
+/*background:linear-gradient( to right, blue,red);*/
